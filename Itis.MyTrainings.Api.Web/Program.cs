@@ -23,4 +23,4 @@ await app.MigrateDbAsync();
 
 app.MapControllers();
 
-app.Run();  
+app.Run();

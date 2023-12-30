@@ -8,7 +8,7 @@ namespace Itis.MyTrainings.Api.Core.Services;
 public class HttpHelperService: IHttpHelperService
 {
     private HttpClient _httpClient;
-    
+
     /// <summary>
     /// Конструктор
     /// </summary>
@@ -24,4 +24,10 @@ public class HttpHelperService: IHttpHelperService
     /// <inheritdoc />
     public async Task<HttpResponseMessage> PostAsync(string uri, HttpContent content, CancellationToken cancellationToken)
         => await _httpClient.PostAsync(uri, content);
+
+    /// <inheritdoc />
+    public void SetAuthorizationHeader(string acces_token, CancellationToken cancellationToken)
+    {
+        _httpClient.DefaultRequestHeaders.Add("Authorization","Bearer "+acces_token);
+    }
 }

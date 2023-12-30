@@ -13,23 +13,10 @@ namespace Itis.MyTrainings.Api.Core.Services;
 /// <summary>
 /// Сервис для работы с ВКонтакте
 /// </summary>
-public class VkService : IVkService
+public class VkService : VkAccessModel, IVkService
 {
     private IHttpHelperService _httpHelperService;
     private readonly IConfiguration _configuration;
-    
-        /// <summary>
-        /// TODO Переписать на модельку
-        /// </summary>
-    private string? VkAuthorizationUri { get; set; }
-    private string? VkApiUri { get; set; }
-    private string? RedirectUri { get; set; }
-    private string? AppId { get; set; }
-    private string? ServiceKey { get; set; }
-    private string? Version { get; set; }
-    private string? Scope { get; set; }
-    private string? ResponseType { get; set; }
-    private string? AccessToken { get; set; }
 
     /// <summary>
     /// Конструктор
@@ -39,16 +26,9 @@ public class VkService : IVkService
     public VkService(
         IHttpHelperService httpHelperService, 
         IConfiguration configuration)
+    : base(configuration)
     {
         _httpHelperService = httpHelperService;
-        _configuration = configuration;
-        AppId = _configuration["Vk:AppId"];
-        ServiceKey = _configuration["Vk:ServiceKey"];
-        RedirectUri = _configuration["Vk:RedirectUri"];
-        Scope = _configuration["Vk:Scope"];
-        Version = _configuration["Vk:Version"];
-        VkAuthorizationUri = _configuration["Vk:VkAuthorizationUri"];
-        VkApiUri = _configuration["Vk:VkApiUri"];
     }
 
     /// <inheritdoc />

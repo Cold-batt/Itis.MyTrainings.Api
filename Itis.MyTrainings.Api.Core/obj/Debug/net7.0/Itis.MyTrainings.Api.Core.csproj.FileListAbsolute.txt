@@ -16,3 +16,18 @@ C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\I
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.csproj.CopyComplete
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Itis.MyTrainings.Api.Core.deps.json
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Itis.MyTrainings.Api.Core.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Itis.MyTrainings.Api.Core.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.csproj.CopyComplete
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\refint\Itis.MyTrainings.Api.Core.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\Itis.MyTrainings.Api.Core.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Core\obj\Debug\net7.0\ref\Itis.MyTrainings.Api.Core.dll

@@ -21,4 +21,12 @@ public interface IHttpHelperService
     /// <param name="cancellationToken">Токен отмены запроса</param>
     /// <returns></returns>
     public Task<HttpResponseMessage> PostAsync(string uri, HttpContent content, CancellationToken cancellationToken);
+
+    /// <summary>
+    /// Authorization header
+    /// </summary>
+    /// <param name="acces_token">OAuth-токен </param>
+    /// <param name="cancellationToken">Токен отмены запроса</param>
+    /// <returns></returns>
+    public void SetAuthorizationHeader(string acces_token,CancellationToken cancellationToken);
 }

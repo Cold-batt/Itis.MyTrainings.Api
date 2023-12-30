@@ -3,6 +3,7 @@ using Itis.MyTrainings.Api.Contracts.Requests.User.GetCurrentUserInfo;
 using Itis.MyTrainings.Api.Contracts.Requests.User.GetResetPasswordCode;
 using Itis.MyTrainings.Api.Contracts.Requests.User.RegisterUser;
 using Itis.MyTrainings.Api.Contracts.Requests.User.RegisterUserWithVk;
+using Itis.MyTrainings.Api.Contracts.Requests.User.RegisterUserWithYandex;
 using Itis.MyTrainings.Api.Contracts.Requests.User.ResetPassword;
 using Itis.MyTrainings.Api.Contracts.Requests.User.SignIn;
 using Itis.MyTrainings.Api.Core.Abstractions;
@@ -10,6 +11,7 @@ using Itis.MyTrainings.Api.Core.Requests.User.GetCurrentUserInfo;
 using Itis.MyTrainings.Api.Core.Requests.User.GetResetPasswordCode;
 using Itis.MyTrainings.Api.Core.Requests.User.RegisterUser;
 using Itis.MyTrainings.Api.Core.Requests.User.RegisterUserWithVk;
+using Itis.MyTrainings.Api.Core.Requests.User.RegisterUserWithYandex;
 using Itis.MyTrainings.Api.Core.Requests.User.ResetPassword;
 using Itis.MyTrainings.Api.Core.Requests.User.SignIn;
 using MediatR;
@@ -26,15 +28,19 @@ namespace Itis.MyTrainings.Api.Web.Controllers;
 public class UserController: Controller
 {
     private readonly IVkService _vkService;
+    private readonly IYandexService _yandexService;
 
     /// <summary>
     /// Конструктор
     /// </summary>
     /// <param name="vkService">Сервис для работы с ВКонтакте</param>
+    /// <param name="yandexService">Сервис для работы с Яндекс</param>
     public UserController(
-        IVkService vkService)
+        IVkService vkService, 
+        IYandexService yandexService)
     {
         _vkService = vkService;
+        _yandexService = yandexService;
     }
 
     /// <summary>
@@ -199,4 +205,25 @@ public class UserController: Controller
         [FromServices] IMediator mediator,
         [FromQuery] string code) =>
         await mediator.Send(new RegisterUserWithVkCommand(code));
+    
+
+    /// <summary>
+    /// Получить ссылку для авторизации пользователя с помощью Яндекс.
+    /// </summary>
+    /// <returns></returns>
+    [HttpGet("authorizeYandex")]
+    public string YandexAuthorize() 
+        => _yandexService.GetCodeUri();
+
+    /// <summary>
+    /// Регистрация через Яндекс
+    /// </summary>
+    /// <param name="mediator">Медиатор CQRS</param>
+    /// <param name="code">Код авторизации</param>
+    /// <returns></returns>
+    [HttpGet("registeryandex")]
+    public async Task<RegisterUserWithYandexResponse> Register(
+        [FromServices] IMediator mediator,
+        [FromQuery] string code) => 
+        await mediator.Send(new RegisterUserWithYandexCommand(code));
 }

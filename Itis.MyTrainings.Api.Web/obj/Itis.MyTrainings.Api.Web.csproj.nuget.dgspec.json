@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj": {}
+    "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj": {}
   },
   "projects": {
-    "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj": {
+    "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj",
         "projectName": "Itis.MyTrainings.Api.Contracts",
-        "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj",
-        "packagesPath": "C:\\Users\\klimk\\.nuget\\packages\\",
-        "outputPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\klimk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,9 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.a2soft.ru/A2SoftRU/_packaging/A2Soft/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -71,21 +65,17 @@
         }
       }
     },
-    "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj": {
+    "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj",
         "projectName": "Itis.MyTrainings.Api.Core",
-        "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj",
-        "packagesPath": "C:\\Users\\klimk\\.nuget\\packages\\",
-        "outputPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\obj\\",
+        "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\klimk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,16 +83,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.a2soft.ru/A2SoftRU/_packaging/A2Soft/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj": {
-                "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj"
+              "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj": {
+                "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Contracts\\Itis.MyTrainings.Api.Contracts.csproj"
               }
             }
           }
@@ -117,6 +105,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Aspose.HTML": {
+              "target": "Package",
+              "version": "[23.12.0, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.56, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
@@ -158,21 +154,17 @@
         }
       }
     },
-    "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj": {
+    "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj",
         "projectName": "Itis.MyTrainings.Api.PostgreSql",
-        "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj",
-        "packagesPath": "C:\\Users\\klimk\\.nuget\\packages\\",
-        "outputPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\obj\\",
+        "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\klimk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,16 +172,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.a2soft.ru/A2SoftRU/_packaging/A2Soft/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj": {
-                "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj"
+              "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj": {
+                "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Core\\Itis.MyTrainings.Api.Core.csproj"
               }
             }
           }
@@ -259,21 +249,17 @@
         }
       }
     },
-    "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj": {
+    "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj",
         "projectName": "Itis.MyTrainings.Api.Web",
-        "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj",
-        "packagesPath": "C:\\Users\\klimk\\.nuget\\packages\\",
-        "outputPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\obj\\",
+        "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\Itis.MyTrainings.Api.Web.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\klimk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -281,16 +267,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.a2soft.ru/A2SoftRU/_packaging/A2Soft/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj": {
-                "projectPath": "C:\\C# projects\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj"
+              "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj": {
+                "projectPath": "C:\\Users\\anton\\RiderProjects\\Yandex\\Itis.MyTrainings.Api\\Itis.MyTrainings.Api.PostgreSql\\Itis.MyTrainings.Api.PostgreSql.csproj"
               }
             }
           }

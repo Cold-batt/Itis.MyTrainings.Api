@@ -51,6 +51,7 @@ public static class WebApplicationBuilderExtensions
         builder.Services.AddScoped<IRoleService, RoleService>();
         builder.Services.AddSingleton<IEmailSenderService, EmailSenderService>();
         builder.Services.AddScoped<IVkService, VkService>();
+        builder.Services.AddScoped<IYandexService, YandexService>();
         builder.Services.AddSingleton<IHttpHelperService, HttpHelperService>();
         builder.Services
             .AddIdentity<User, Role>(opt =>

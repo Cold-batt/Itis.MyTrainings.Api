@@ -11,3 +11,15 @@ C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\refint\Itis.MyTrainings.Api.Contracts.dll
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.pdb
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\ref\Itis.MyTrainings.Api.Contracts.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.deps.json
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.AssemblyInfo.cs
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\refint\Itis.MyTrainings.Api.Contracts.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\Itis.MyTrainings.Api.Contracts.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.Contracts\obj\Debug\net7.0\ref\Itis.MyTrainings.Api.Contracts.dll

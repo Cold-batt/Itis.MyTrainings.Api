@@ -18,3 +18,22 @@ C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\ne
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.genruntimeconfig.cache
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.dll
 C:\C# projects\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.deps.json
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.runtimeconfig.json
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.Core.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.Core.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\bin\Debug\net7.0\Itis.MyTrainings.Api.Contracts.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.AssemblyInfo.cs
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.csproj.CopyComplete
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\refint\Itis.MyTrainings.Api.PostgreSql.dll
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.pdb
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\Itis.MyTrainings.Api.PostgreSql.genruntimeconfig.cache
+C:\Users\User\Desktop\Itis.MyTrainings.Api\Itis.MyTrainings.Api.PostgreSql\obj\Debug\net7.0\ref\Itis.MyTrainings.Api.PostgreSql.dll
